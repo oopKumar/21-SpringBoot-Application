@@ -12,6 +12,7 @@ public class Application {
 		 //HIS-134
 		 //left HIS-122 at middle and working on HIS-134
 		 run.close();
+int  a=10;
 	}
 
 }
