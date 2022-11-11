@@ -13,5 +13,10 @@ public class Application {
 		 //left HIS-122 at middle and working on HIS-134
 		 run.close();
 	}
+	//His-200 related changes
+	public void doProcess() {
+
+		//logic goes here
+		}
 
 }
